@@ -1,0 +1,7 @@
+main: com.kitman.program.Main
+name: Kitman
+version: 1.0.0
+description: Adds simple kit pvp functions
+api-version: 1.17
+load: STARTUP
+author: marek.scheppelmann@protonmail.com
